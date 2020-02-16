@@ -1,6 +1,6 @@
 {
   "name": "convert-v2ray-gist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert secret gist json to v2ray subscription",
   "main": "index.js",
   "scripts": {
